@@ -3,13 +3,13 @@ gingerit==0.8.2
 matplotlib==3.5.0
 matplotlib-inline==0.1.3
 nltk>=3.10.3
-numpy==1.21.4
+numpy==1.22
 pandas==1.3.4
 PyDictionary==2.0.1
-requests==2.26.0
+requests==2.31.0
 seaborn==0.11.2
 SpeechRecognition==3.8.1
-streamlit==1.2.0
+streamlit==1.54.0
 sumy==0.9.0
 textstat==0.7.2
 tokenizers==0.10.3
